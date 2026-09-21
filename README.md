@@ -2,6 +2,9 @@
 
 A console-based Rock Paper Scissors game built with C++.
 
+this was my first project i did ,so there a lot of spagity code 
+and alot of bad spiling 😂❤️
+
 The game allows the player to play multiple rounds against the computer
 and displays the results and final winner at the end of the game.
 
